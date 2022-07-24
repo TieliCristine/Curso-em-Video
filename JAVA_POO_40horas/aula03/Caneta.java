@@ -1,4 +1,4 @@
-package JAVA_POO_40horas.aula03;
+package aula03;
 
 public class Caneta {
 

@@ -1,4 +1,4 @@
-package JAVA_POO_40horas.aula02;
+package aula02;
 
 public class aula02 {
     public static void main(String[] args) {

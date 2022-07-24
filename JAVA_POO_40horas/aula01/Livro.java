@@ -1,4 +1,4 @@
-package JAVA_POO_40horas.aula01;
+package aula01;
 
 public class Livro {
 
